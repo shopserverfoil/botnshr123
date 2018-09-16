@@ -8,8 +8,11 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-لو سمحت ممكن تدخل سيرفرى
-                               [ رابط السيرفر ] 
+تكفا طلبت تكفا والله ابي فلوس
+وطبعا وش يعطون ؟
+15 انفايت = 
+30 الف كريدت وزيدة روح اتفرج وشوف
+                               [ https://discord.gg/CcTQgy ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
