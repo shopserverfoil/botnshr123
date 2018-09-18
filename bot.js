@@ -12,7 +12,7 @@ client.on("guildMemberAdd", member => {
 وطبعا وش يعطون ؟
 15 انفايت = 
 30 الف كريدت وزيدة روح اتفرج وشوف
-                               [ https://discord.gg/CcTQgy ] 
+                               [ https://discord.gg/BbgGBce ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
