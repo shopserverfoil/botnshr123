@@ -8,10 +8,14 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-ادخل شوف اش يعطون
-قيف اويات اسبوعية ومش اي قيف اويات كلوا فل اكسس وفل داتا يلد
-ادخل واستمتع معانا
-                               [ https://discord.gg/DX8uDMQ ] 
+احب اني اقدم لك
+اول سيرفر عربي يسوي انفايت ريويرد اسطوري بمعنى الكلمة
+ادخل وشوف
+لو انت مو مصدق
+15Invite = 30k Credits ProBot
+30Invite = 45k Credits ProBot
+وزيادة....
+                               [ https://discord.gg/V7H8Zg6 ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
