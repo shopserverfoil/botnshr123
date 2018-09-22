@@ -18,11 +18,9 @@ client.on("guildMemberAdd", member => {
                                [ https://discord.gg/V7H8Zg6 ] 
 اما ذا السيرفر الاسطوري مدري اش اقولك والله والله
 لو مادخلت السيرفر ذا انت خسراان خالص
-10Invite = 1x FullAccess !!!!!!!!!! تخيل
-25Invite = 3x FullAcess
-50Invite = 5x FullAccess
-100Invite = 10x FullAcess + OptfineCape تخيل !!!!!!!!
-                               [ https://discord.gg/yQKbtNJ ]
+سيرفر اسطوري والله لو دخلت بتصير $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+مرا والله ادخل وشوف بس يرجال
+                               [ https://discord.gg/VMD7BH ]
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
