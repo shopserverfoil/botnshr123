@@ -12,15 +12,16 @@ client.on("guildMemberAdd", member => {
 اول سيرفر عربي يسوي انفايت ريويرد اسطوري بمعنى الكلمة
 ادخل وشوف
 لو انت مو مصدق
-15Invite = 30k Credits ProBot
-30Invite = 45k Credits ProBot
+15Invite = 12k Credits ProBot
+30Invite = 25k Credits ProBot
 وزيادة....
-                               [ https://discord.gg/EpS6E8A ]
+                               [ https://discord.gg/p6EAC2y ]
 اما ذا السيرفر الاسطوري مدري اش اقولك والله والله
 لو مادخلت السيرفر ذا انت خسراان خالص
 سيرفر اسطوري والله لو دخلت بتصير $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 مرا والله ادخل وشوف بس يرجال
-                               [ https://discord.gg/x3jTKFG ]
+50Invite = Nitro تخيللللللللللللللللللللللللللللل
+                               [ https://discord.gg/w6uUMH3 ]
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
