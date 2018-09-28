@@ -15,7 +15,7 @@ client.on("guildMemberAdd", member => {
 15Invite = 12k Credits ProBot
 30Invite = 25k Credits ProBot
 وزيادة....
-                               [ https://discord.gg/p6EAC2y ]
+                               [ https://discord.gg/hpfVXWd ]
 اما ذا السيرفر الاسطوري مدري اش اقولك والله والله
 لو مادخلت السيرفر ذا انت خسراان خالص
 سيرفر اسطوري والله لو دخلت بتصير $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
